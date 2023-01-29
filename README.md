@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Screenshot
 
-![] (./src/images/screenshot.jpg)
+![](./src/images/screenshot.jpg)
